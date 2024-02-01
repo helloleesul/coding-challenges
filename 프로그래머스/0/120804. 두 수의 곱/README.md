@@ -1,6 +1,6 @@
-# [level unrated] 두 수의 곱 - 120804 
+# [level 0] 두 수의 곱 - 120804 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120804#) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120804) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2023년 11월 1일 23:0:44
+2024년 2월 4일 10:37:23
 
 ### 문제 설명
 
